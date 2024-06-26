@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @FranHernan
 - 👀 I’m interested in tech
-- 🌱 I’m currently learning everything Computer sciences
+- University of the People
+- 🌱 I’m currently learning everything Computer science
 - 💞️ I’m looking to collaborate with a tech company or create new software
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
